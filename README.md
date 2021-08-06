@@ -18,7 +18,7 @@
   <img align="center" alt="Larisse-java" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
   <img align="center" alt="Larisse-sql" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">                                                               
   <!-- <img align="center" alt="Larisse-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg> --> 
-  <img align="right" alt="Larisse" src="https://i.picasion.com/pic91/8f0bf5a9937dd31b0894957fc626e76d.gif">
+  <img align="right" alt="Larisse" src="https://i.picasion.com/pic91/df069c8ba48dde8ea64fc66c42675a47.gif">
 </div>
                                                                                                                                  
    ##
