@@ -1,4 +1,4 @@
-### Olá, eu sou Larisse 👋
+### Olá, eu sou a Larisse 👋
 
 - 👩🏽‍🎓 Sou acadêmica do curso de Tecnologia em Análise e Desenvolvimento de Sistemas.
 - 🌱 Atualmente busco me aperfeiçoar em HTML e CSS, também estou aprendendendo javascript. 
