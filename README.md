@@ -1,7 +1,7 @@
 ### Olá, eu sou a Larisse 👋
 
 - 👩🏽‍🎓 Sou acadêmica do curso de Tecnologia em Análise e Desenvolvimento de Sistemas.
-- 🌱 Atualmente busco me aperfeiçoar em HTML e CSS, também estou aprendendendo javascript. 
+- 🌱 Atualmente busco me aperfeiçoar em Java e nas tecnologias de front-end: HTML, CSS e javascript. 
 - 💻 Front-end me desperta uma grande paixão, mas tenho interesse em outras coisas também.
 - 📧 larisse16rocha@gmail.com/ https://www.linkedin.com/in/larisserocha/
 
