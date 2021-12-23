@@ -1,7 +1,7 @@
 ### Olá, eu sou a Larisse 👋
 
 - 👩🏽‍🎓 Sou acadêmica do curso de Tecnologia em Análise e Desenvolvimento de Sistemas.
-- 💻 Atualmente estudando C# e as tecnologias de front-end: HTML, CSS e javascript e um pouco de react. 
+- 💻 Atualmente estudando C# e as tecnologias de front-end: HTML, CSS e javascript. 
 - 📧 larisse16rocha@gmail.com/ https://www.linkedin.com/in/larisserocha/
 
 <div>
