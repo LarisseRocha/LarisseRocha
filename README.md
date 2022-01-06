@@ -2,7 +2,7 @@
 
 - 👩🏽‍🎓 Acadêmica do curso de Tecnologia em Análise e Desenvolvimento de Sistemas no IFNMG.
 - 💻 Atualmente estudando C# e as tecnologias de front-end: HTML, CSS e javascript. 
-- 📧 larisse16rocha@gmail.com/ https://www.linkedin.com/in/larisserocha/
+- 📧 larisse16rocha@gmail.com/   https://www.linkedin.com/in/larisserocha/
 
 <div>
   <a href="https://github.com/LarisseRocha">
