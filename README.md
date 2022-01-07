@@ -20,8 +20,6 @@
   <img align="center" alt="Larisse-sql" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> 
   
   
-  <!-- <img align="center" alt="Larisse-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg> --> 
-  <img align="right" alt="Larisse" src="https://i.picasion.com/pic91/df069c8ba48dde8ea64fc66c42675a47.gif">
 </div>
                                                                                                                                  
    ##
